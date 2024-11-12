@@ -1,0 +1,3 @@
+﻿  Lab06_2it.cpp
+C:\Users\fisto\source\repos\LabAP_6.2(it)\Lab06_2it.cpp(55,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  LabAP_6.2(it).vcxproj -> C:\Users\fisto\source\repos\LabAP_6.2(it)\x64\Debug\LabAP_6.2(it).exe
